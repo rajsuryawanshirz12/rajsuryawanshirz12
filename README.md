@@ -1,6 +1,6 @@
-Hi there 👋 I’m Raj Suryawanshi 
+Hi there 👋 I’m **Raj Suryawanshi**
 
 * 💡 Building meaningful solutions where logic meets creativity and innovation drives impact.
-* 👉🏻 Currently exploring Full Stack Web Development, Flutter, and AI (NLP & CNN).
-* 🤝 Open to collaborating on smart systems, AI-driven tools, and innovative web projects. 
-* 💬 Feel free to contact me at suryawnshiraj250@gmail.com
+* 👉🏻 Currently exploring **Full Stack Development**, **Machine Learning**, and **Artificial Intelligence (NLP, CNN)**
+* 🤝 Open to collaborating on **Smart systems**, **AI-driven tools**, and **Innovative web projects**. 
+* 💬 Feel free to contact me at **suryawnshiraj250@gmail.com**
